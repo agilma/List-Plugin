@@ -25,8 +25,11 @@ Template Flutter Apps
 * https://github.com/abuanwar072/Course-App
 * https://github.com/abuanwar072/Food-Ordering-App
 
-Web
+Example Flutter Web
 * https://github.com/abuanwar072/Flutter-Web---Food-App-UI
+
+Vue-multiselect
+* https://vue-multiselect.js.org/
 
 Bugs Plugin
 Node Sass
